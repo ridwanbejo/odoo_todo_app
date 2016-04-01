@@ -1,0 +1,11 @@
+#Odoo To-Do PHP Apps
+
+Sebuah aplikasi todo dalam PHP yang dibangun diatas framework CodeIgniter, menjadi interface untuk mengakses aplikasi todo yang dipasang di Odoo 9. Dengan menggunakan Odoo XML-RPC dan Ripcord.php, membuat aplikasi todo menjadi lebih mudah dan cepat.
+
+##Perangkat yang diperlukan
+
+* Apache Web Server
+* PHP5
+* Python
+* PostgreSQL
+* Odoo 9 
